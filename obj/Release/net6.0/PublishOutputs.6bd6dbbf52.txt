@@ -1,0 +1,7 @@
+D:\C# Project\WebApplication1\WebApplication1\out\WebApplication1.exe
+D:\C# Project\WebApplication1\WebApplication1\out\appsettings.Development.json
+D:\C# Project\WebApplication1\WebApplication1\out\appsettings.json
+D:\C# Project\WebApplication1\WebApplication1\out\WebApplication1.dll
+D:\C# Project\WebApplication1\WebApplication1\out\WebApplication1.deps.json
+D:\C# Project\WebApplication1\WebApplication1\out\WebApplication1.runtimeconfig.json
+D:\C# Project\WebApplication1\WebApplication1\out\WebApplication1.pdb
